@@ -23,4 +23,14 @@
         .section-externo {
             grid-template-columns: 768px;
         }
+        .texto-interior {
+            display: flex;
+            font-size: 2rem;
+            font-weight: bold;
+        }
+        .titulo-secundario {
+            display: flex;
+            font-size: bold;
+        }
+        
 }

@@ -3,24 +3,26 @@
     font-family: 'Poppins', sans-serif;
 }
 .texto-interior {
+    text-align: center;
     font-size: 2rem;
     font-weight: bold;
     padding: 2rem;
 }
 .titulo-secundario {
-    font-size: 2rem;
+    text-align: center;
+    font-size: 1.3rem;
     padding: 1rem;
     font-weight: bold;
 }
 .article-texto {
-    font-size: 1.3rem;
+    text-align: center;
+    font-size: 1rem;
     font-weight: bold;
     padding: 1rem;
 }
 .img-interioad {
+    width: 100%;
     display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-content: center;
+    flex-direction: column;
     padding: 1rem;
 }
