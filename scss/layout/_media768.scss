@@ -1,0 +1,26 @@
+@media (min-width:768px) {
+    .navbar ul {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: end;
+        justify-content: space-evenly;
+        padding-top: 2rem;}
+        .navbar ul a {
+            font-size: 1rem;
+            font-weight: bold;
+        }
+        .titulo-index{
+            font-size: 3rem;
+            top: 40%;
+        }
+        .hamburguesa {
+            display: none;
+        }
+        .navbar {
+            height: 8.5rem;
+        }
+        .section-externo {
+            grid-template-columns: 768px;
+        }
+}

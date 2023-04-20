@@ -1,0 +1,23 @@
+@media (min-width:1440px) {
+    .navbar ul a {
+        font-size: 1.3rem;
+    }
+    .titulo-index{
+        font-size: 4rem;
+        top: 55%;
+    }
+    .cards {
+        height: 65vh;
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+        align-items:center
+    }
+    .section-externo {
+        grid-template-columns: 1440px;
+        height: 3700px;
+    }
+    .texto-externo {
+        padding-top: 7.5rem;
+    }
+}

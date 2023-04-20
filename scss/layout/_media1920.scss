@@ -1,0 +1,14 @@
+@media (min-width:1920px) {
+    .section-externo {
+        grid-template-columns: 1900px;
+        height: 2300px;
+    }
+    .img-ubicacion {
+        justify-items: center;
+        align-items: center;
+    }
+    .img-posterior {
+        justify-items: center;
+        align-items: center;
+    }
+}

@@ -1,0 +1,7 @@
+@media (min-width:375px) {
+    .section-externo {
+        grid-template-columns: 375px;
+        grid-template-rows: repeat(3,1fr);
+        width: 100%;
+    }
+}

@@ -1,0 +1,28 @@
+@media (min-width:1024px) {
+    .titulo-index{
+        font-size: 3.7rem;
+    }
+    .redes-sociales {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+    .section-externo {
+        grid-template-columns: 1024px;
+        height:2900px ;
+    }
+    .texto-externo{
+        padding-top: 3rem;
+    }
+    .titulo-h1 {
+        font-size: 4rem;
+    }
+    .articul-1 {
+        font-size: 1.3rem;
+    }
+    .titulo-h2 {
+        font-size: 2rem;
+        font-weight: bolder;
+        padding: 1rem;
+    }
+}
